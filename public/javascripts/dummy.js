@@ -1,0 +1,92 @@
+module.exports = [
+  {
+    id: 1,
+    project_name: "Donasi yayasan jantung",
+    image: "https://www.gogreendrop.com/blog/wp-content/uploads/2020/08/PlFSLf57QhaiNTa2WxkrJVe2KUn5m8hU1597243672.jpg",
+    short_description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    goal_amount: 20000000,
+    current_amount: 220000,
+    expire_date: "2021-10-26T12:49:55Z",
+    createdAt: "2021-07-26T12:49:55Z",
+    updatedAt: "2021-07-26T12:49:55Z",
+    donations: [
+      {
+        id: 101,
+        project_id: 1,
+        name: "Wage Pratama",
+        amount: 100000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+      {
+        id: 102,
+        project_id: 1,
+        name: "Suci Purnawati",
+        amount: 120000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+    ]
+  },
+  {
+    id: 2,
+    project_name: "Donasi yayasan anal yatim",
+    image: "https://www.humanitygives.com/wp-content/uploads/2017/08/orphan-appeal-charities-in-uk.jpg",
+    short_description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    goal_amount: 30000000,
+    current_amount: 300000,
+    expire_date: "2021-10-26T12:49:55Z",
+    createdAt: "2021-07-26T12:49:55Z",
+    updatedAt: "2021-07-26T12:49:55Z",
+    donations: [
+      {
+        id: 201,
+        project_id: 2,
+        name: "Warta Wacana",
+        amount: 50000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+      {
+        id: 202,
+        project_id: 2,
+        name: "Tari Puspasari",
+        amount: 150000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+      {
+        id: 203,
+        project_id: 2,
+        name: "Gamani Budiyanto",
+        amount: 1000000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+    ]
+  },
+  {
+    id: 3,
+    project_name: "Donasi bencana alam",
+    image: "https://mk0habitatforhui6bly.kinstacdn.com/wp-content/uploads/2017/10/natural-disaster-relief-charity-response-emergency.jpghttps://www.gogreendrop.com/blog/wp-content/uploads/2020/08/PlFSLf57QhaiNTa2WxkrJVe2KUn5m8hU1597243672.jpg",
+    short_description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    goal_amount: 10000000,
+    current_amount: 100000,
+    expire_date: "2021-10-26T12:49:55Z",
+    createdAt: "2021-07-26T12:49:55Z",
+    updatedAt: "2021-07-26T12:49:55Z",
+    donations: [
+      {
+        id: 301,
+        project_id: 3,
+        name: "Murti Manullang",
+        amount: 100000,
+        createdAt: "2021-07-26T12:49:55Z",
+        updatedAt: "2021-07-26T12:49:55Z",
+      },
+    ]
+  },
+]
